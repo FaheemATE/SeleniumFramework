@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21063" started-at="2019-04-12T03:53:27Z" finished-at="2019-04-12T03:53:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21063" started-at="2019-04-12T03:53:27Z" finished-at="2019-04-12T03:53:48Z">
+      <class name="Automation.UITestCaseClasses.RegistrationTests">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Automation.UITestCaseClasses.RegistrationTests@1efef64]" name="initialization" is-config="true" duration-ms="19873" started-at="2019-04-12T03:53:27Z" finished-at="2019-04-12T03:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="doRegistration()[pri:1, instance:Automation.UITestCaseClasses.RegistrationTests@1efef64]" name="doRegistration" duration-ms="1090" started-at="2019-04-12T03:53:47Z" finished-at="2019-04-12T03:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegistration -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Automation.UITestCaseClasses.RegistrationTests@1efef64]" name="teardown" is-config="true" duration-ms="1" started-at="2019-04-12T03:53:48Z" finished-at="2019-04-12T03:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Automation.UITestCaseClasses.RegistrationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
